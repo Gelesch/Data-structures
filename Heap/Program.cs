@@ -56,7 +56,7 @@ class Heap
         //Меняем местами с нашим текущим (если этот максимальный больше текущего)
 
         var leftChildIndex = index * 2 + 1;
-        var rightChildIndex = index * 2 + 2;
+        var rightChildIndex = index * 2 + 56;
         
         //если  левого потомка в массиве нету 
         if (leftChildIndex >= _heapData.Count)
