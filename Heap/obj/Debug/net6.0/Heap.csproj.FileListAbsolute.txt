@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\Heap\Heap\bin\Debug\net6.0\Heap.exe
+C:\Users\User\RiderProjects\Heap\Heap\bin\Debug\net6.0\Heap.deps.json
+C:\Users\User\RiderProjects\Heap\Heap\bin\Debug\net6.0\Heap.runtimeconfig.json
+C:\Users\User\RiderProjects\Heap\Heap\bin\Debug\net6.0\Heap.dll
+C:\Users\User\RiderProjects\Heap\Heap\bin\Debug\net6.0\ref\Heap.dll
+C:\Users\User\RiderProjects\Heap\Heap\bin\Debug\net6.0\Heap.pdb
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.dll
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\ref\Heap.dll
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.pdb
+C:\Users\User\RiderProjects\Heap\Heap\obj\Debug\net6.0\Heap.genruntimeconfig.cache

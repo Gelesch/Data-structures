@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\Heap\CircularArray\bin\Debug\net6.0\CircularArray.exe
+C:\Users\User\RiderProjects\Heap\CircularArray\bin\Debug\net6.0\CircularArray.deps.json
+C:\Users\User\RiderProjects\Heap\CircularArray\bin\Debug\net6.0\CircularArray.runtimeconfig.json
+C:\Users\User\RiderProjects\Heap\CircularArray\bin\Debug\net6.0\CircularArray.dll
+C:\Users\User\RiderProjects\Heap\CircularArray\bin\Debug\net6.0\ref\CircularArray.dll
+C:\Users\User\RiderProjects\Heap\CircularArray\bin\Debug\net6.0\CircularArray.pdb
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.dll
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\ref\CircularArray.dll
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.pdb
+C:\Users\User\RiderProjects\Heap\CircularArray\obj\Debug\net6.0\CircularArray.genruntimeconfig.cache
